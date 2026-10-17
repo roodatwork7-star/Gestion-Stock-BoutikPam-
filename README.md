@@ -3,7 +3,7 @@
 Application de bureau en **Python (Tkinter)** pour gérer le stock d'une petite boutique : ajouter, modifier et supprimer des produits, avec validation des saisies et statistiques en temps réel.
 
 <!-- Ajoutez une capture d'écran : créez un dossier docs/ puis décommentez la ligne suivante -->
-<!-- ![Aperçu de BoutikPam](docs/apercu.png) -->
+<!-- ![Aperçu de BoutikPam](docs/apercu.PNG) -->
 
 ## Fonctionnalités
 
@@ -30,7 +30,7 @@ Application de bureau en **Python (Tkinter)** pour gérer le stock d'une petite 
 - Aucune bibliothèque externe à installer.
 
 ```bash
-python gestion_stock.py
+python BoutikPam.py
 ```
 
 ## Utilisation
